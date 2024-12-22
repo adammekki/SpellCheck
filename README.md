@@ -8,3 +8,5 @@
 ### - In the 'game-page''s terminal, write 'npm run serve'
 ### - In the 'WordGame''s terminal, write 'ng serve --open'
 ## The game should open a new tab in your browser and start running!
+
+# This game was proudly made by Adam Mekki, Abdallah Ashraf, and Abdelrahman Kassem from the German International University
